@@ -1,0 +1,15 @@
+= CODEA v3 - Hybridisation of CODEA v2 and Paradiseo-MOEO.
+
+== Introduction
+
+This project extends ParadisEO-MOEO by providing explicit mechanisms to create cooperative solving methods.
+
+== API
+
+A preliminary version of the API can be downloaded here:
+https://dl.dropbox.com/u/4581572/CODEAv3-API.pdf
+
+== Contribute
+
+If you want to contribute, please contact me at:
+jpcastrog@gmail.com
